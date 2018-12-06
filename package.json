@@ -1,0 +1,22 @@
+{
+  "name": "ps-graphql",
+  "version": "1.0.0",
+  "description": "plural sight tutorial",
+  "main": "index.js",
+  "author": "jimmyfargo",
+  "license": "MIT",
+  "scripts": {
+    "start": "babel-node ./src/start.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "webpack": "^4.27.1"
+  }
+}
