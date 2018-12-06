@@ -2,7 +2,7 @@ import React from "react"
 import ReactDOM from "react-dom"
 
 let App = () => (
-  React.createElement("div", null, "Hello from react")
+  React.createElement("div", null, "Hello from react soething else")
 )
 
 ReactDOM.render(
